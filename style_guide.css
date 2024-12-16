@@ -1,0 +1,26 @@
+
+<!-- *TODO - General  -->
+
+Root
+        :root {
+                --bg-color: #f2e8c6;
+                --text-color: #000000;
+                --secondary-text-color: #982b1c;
+                --header-bg-color: #800000;
+                --card-bg-color: #dad4b5;
+                --button-bg-color: #800000;
+                --button-text-color: #ffffff;
+                --footer-bg-color: #4e342e;
+                --footer-text-color: #e4c59e;
+                --trans-duration: 0.3s;
+        }
+
+        ******No Colors Without Variable**********
+Fonts 
+        font-family: "Rubik", sans-serif; --> (Cairo)  
+        
+Transition
+        Var(--trans-duration)
+
+
+*Please Stick with clean code 
